@@ -1,0 +1,1 @@
+struct node *n = createNode(2);
